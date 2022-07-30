@@ -1,0 +1,1 @@
+select country from world_happiness_index_2019

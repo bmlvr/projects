@@ -1,0 +1,1 @@
+UPDATE [world_happiness_index_2018] SET [year]=0 WHERE [year] IS NULL;
